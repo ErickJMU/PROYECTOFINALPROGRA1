@@ -1,3 +1,7 @@
+#Gabriel Arturo Castillo Loarca 202507022
+#Erick José Maldonado Arana 202507027
+#Jimmy Antonio De Jesus Ixmata 202508703
+
 import pygame
 import random
 import time
