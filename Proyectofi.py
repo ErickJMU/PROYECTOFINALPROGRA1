@@ -176,3 +176,4 @@ def turno(fila, col, jugador):
     valor = matriz[fila][col]
     suma = sum(matriz[i][j] for i, j in vecinos)
     resultado = valor * suma
+    #HOLAAAAA
